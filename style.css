@@ -24,7 +24,7 @@ p {
 
 #cv {
 	width: 90%;
-	max-width: 800px;
+	max-width: 850px;
 	background: #f3f3f3;
 	margin: 30px auto;
 }
@@ -43,7 +43,7 @@ p {
 }
 
 #name h2 {
-	font-size: 2em;
+	font-size: 1.8em;
 	margin-left: 2px;
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 }
@@ -62,7 +62,7 @@ p {
 	width: 100%;
 	height: auto;
 	-webkit-border-radius: 50px;
-	border-radius: 0px;
+	border-radius: 50px;
 }
 
 #name {
